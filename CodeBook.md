@@ -22,15 +22,15 @@ Statistics IDs
 -----------------
 Variables are named as follows:
 
-t: time analisys
-f: frequency analysis
-BodyAcc: Body acceleration
-GravityAcc: Gravity acceleration
-BodyGyroJerk: Body angular velocity
-BodyAccJerk: Body linear acceleration
-Mag: Denotes the magnitud of linear acceleration and angular velocity
-mean: Average
-std: Standar deviation
+t: time analisys.
+f: frequency analysis.
+BodyAcc: Body acceleration.
+GravityAcc: Gravity acceleration.
+BodyGyroJerk: Body angular velocity.
+BodyAccJerk: Body linear acceleration.
+Mag: Denotes the magnitud of linear acceleration and angular velocity.
+mean: Average.
+std: Standar deviation.
 XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 Mean statistics:Time analysis
