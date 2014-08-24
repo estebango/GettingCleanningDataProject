@@ -15,8 +15,8 @@ Data source:
 ID Fields
 ----------
 
-activityId: Id for the activity that the partipant was perfoming during the measuere.
-subjectId:  Id for the participant.
+* activityId: Id for the activity that the partipant was perfoming during the measuere.
+* subjectId:  Id for the participant.
 
 Statistics IDs
 -----------------
